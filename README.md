@@ -40,3 +40,4 @@ RxSwift와 친해지는 레포 ^-^
 |12|Beginning RxCocoa|O|[링크](https://github.com/simoniful/iOS_What_is_RxSwift/blob/main/Personal/SIMON/12.%20Beginning%20RxCocoa.md)|
 |13|Intermediate RxCocoa|O|[링크](https://github.com/simoniful/iOS_What_is_RxSwift/blob/main/Personal/SIMON/13.%20Intermediate%20RxCocoa.md)|
 |14|Error Handling|O|[링크](https://github.com/simoniful/iOS_What_is_RxSwift/blob/main/Personal/SIMON/14.%20Error%20Handling.md)|
+|15|Intro to Schedulers|O|[링크](https://github.com/simoniful/iOS_What_is_RxSwift/blob/main/Personal/SIMON/15.%20Intro%20to%20Schedulers.md)|
