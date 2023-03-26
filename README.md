@@ -43,3 +43,4 @@ RxSwift와 친해지는 레포 ^-^
 |15|Intro to Schedulers|O|[링크](https://github.com/simoniful/iOS_What_is_RxSwift/blob/main/Personal/SIMON/15.%20Intro%20to%20Schedulers.md)|
 |16|Testing with RxTest|O|[링크](https://github.com/simoniful/iOS_What_is_RxSwift/blob/main/Personal/SIMON/16.%20Testing%20with%20RxTest.md)|
 |17|Creating Custom Reactive Extensions|O|[링크](https://github.com/simoniful/iOS_What_is_RxSwift/blob/main/Personal/SIMON/17.%20Creating%20Custom%20Reactive%20Extensions.md)|
+|18|MVVM with RxSwift|O|[링크](https://github.com/simoniful/iOS_What_is_RxSwift/blob/main/Personal/SIMON/18.%20MVVM%20with%20RxSwift.md)|
